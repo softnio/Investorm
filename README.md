@@ -67,11 +67,14 @@ More than 15+ currencies supported and we continuesly add more currency time to 
 ## Upcoming Features
 - System: Internal fund transfer management (system user to another user).
 - System: Automatic profit calculation and adjustment with API base cronjob. 
+- System: Multi-Language supports including RTL version. 
+- System: Multiple theme option support incluing Dark Mode perference. 
 - Module: Internal KYC verification system.
 - Module: Mailchimp / Constant contact integration. 
 - Module: CMS feature for front-end management.
-- Addons: Stripe for credit / debit cards online payments.
-- Addons: Coinbase & Coinpayments for automated crypto payment. 
+- Addons: Stripe for credit / debit cards online payment gateway.
+- Addons: Coinbase, Blockchain, Coinpayments payment gateway gateway. 
+- Addons: Perfect Money, Skrill, Neteller payment gateway integration. 
 - Addons: Multi-Level referral system.
 - Addons: Automatic withdrawal management for investor. 
 - Addons: Internal support ticket management system.
