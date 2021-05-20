@@ -42,9 +42,9 @@ More than 15+ currencies supported and we continuesly add more currency time to 
 
 `Bitcoin (BTC)`, `Ethereum (ETH)`, `Litecoin (LTC)`, `Bitcoin Cash (BCH)`, `Binance Coin (BNB)`, `USD Coin (USDC)`, `Tether (USDT)`, `TRON (TRX)`
 
-*Would you like to add more currency that helps you? Please contact us via email at info[at]softnio.com*
+*Would you like to add more currency that helps you? Please contact us via email at info@softnio.com*
 
-### User Dashboard
+## User Dashboard
 - **User friendly investment interface:** Key statistics and links are presented in a way so that users can start investing & earn money in no time.
 - **Multi scheme investment supports:** Users can invest in multiple investment plans at the same or different time.
 - **Multiple currencies for deposit & withdraw system:** Users can deposit in different currencies and allow to withdraw funds into multiple accounts. 
@@ -53,7 +53,7 @@ More than 15+ currencies supported and we continuesly add more currency time to 
 - **Activity log:** Application will save login activities for security purpose and it can be enabled or disabled on-demand.
 - **Two Factor Authentication:** User allow enable 2FA to add another layer of securiy on account. 
 
-### Admin Dashboard
+## Admin Dashboard
 - **Infographic Overview:** Offers weekly + monthly deposit & withdraw insights, recent transaction & order activities, total stats and more!
 - **Dedicated Investment Dashboard:** Contains investment overview, graphical insights for active and top investment schemes, recent investment histories and more!
 - **Investment Scheme Management:** Schemes can be updated, activated/inactivated or can be archived. Easily update investment amount, interest rate, interest period, term duration etc.
@@ -65,16 +65,69 @@ More than 15+ currencies supported and we continuesly add more currency time to 
 - **Website Settings:** Site information, social media links, timezone settings, email configuration, maintenance and more more settings can be managed easily.
 
 ## Upcoming Features
-- Addons: Stripe for credit / debit cards payments.
-- Addons: Coinpayments for crypto currency payment. 
+- System: Internal fund transfer management (system user to another user).
+- System: Automatic profit calculation and adjustment with API base cronjob. 
 - Module: Internal KYC verification system.
-- Module: Internal fund transfer management.
-- Module: Multi-Level referral commission system.
-- Addons: Automatice profit calculation and payout system. 
-- Addons: Automatice withdrawal management for investor. 
-- Addons: Internal support ticket management system. 
 - Module: Mailchimp / Constant contact integration. 
-- Module: Simple Newsletter management system.
 - Module: CMS feature for front-end management.
+- Addons: Stripe for credit / debit cards online payments.
+- Addons: Coinbase & Coinpayments for automated crypto payment. 
+- Addons: Multi-Level referral system.
+- Addons: Automatic withdrawal management for investor. 
+- Addons: Internal support ticket management system.
+- Addons: Simple Newsletter management system. 
 
-*Would you like to add more feature? Please feel free to provide us details about that via email at info[at]softnio.com*
+*Would you like to add more feature? Please feel free to provide us details about that via email at info@softnio.com*
+
+## Demo Access
+
+**Live Demo Preview:** https://investorm.xyz
+
+**Admin Access:** U /P: info@softnio.com / demo123#
+
+**User Access:** Registration required with own email address (email verification required to active account).
+
+### Private Demo Access Before Purchase
+
+If you want to try our script functionality before final purchase, then please email us at info@softnio.com. We will provide you a private demo with full privilege. Feel free to ask if you have any question before purchase.
+
+## What do you get?
+- Investorm Application Files
+- Manual Installation Files
+- Documentation / Installation Guide
+
+## Caution:
+The application / script required activation with Envato Purchase Code. And you allow to active one application with one purchase.
+Also activation locked with you domain / path, so you will need our help to change installion path if require. 
+
+## System Requirements
+
+- PHP 7.3.x / 7.4.x
+- MySQL 5.7+
+- Apache / Nginx
+
+**PHP Extensions:**
+- OpenSSL PHP Extension
+- PDO PHP Extension
+- Mbstring PHP Extension
+- Tokenizer PHP Extension
+- XML PHP Extension
+- Ctype PHP Extension
+- JSON PHP Extension
+- BCMath PHP Extension
+- FileInfo PHP Extension
+- GD Library
+
+## Sources and Credits
+
+**Application Framework**: Laravel v8.x
+
+**PHP Libraries**: paypal-checkout, laravel-installer, utility-services, simple-qrcode, google2fa, guzzle
+
+**Exchange Rate**: Automatically get all currency rates via exratesapi. 
+
+**UI Interface**: [DashLite - Bootstrap Responsive Admin Dashboard Template](https://themeforest.net/item/dashlite-bootstrap-responsive-admin-dashboard-template/25780042)
+
+**Fonts and Icons**: Roboto, Nioicon by Softnio Team.
+
+**jQuery Plugins (Javascript)**: jQuery, Bootstrap, accounting.js, money.js, Select2, Datepicker, Timepicker, Chart JS, Knob. Easytimer, jQuery Form & Validation Plugin, Sweetalert2, Toastr, Simplebar, Clipboard, Tinymce.
