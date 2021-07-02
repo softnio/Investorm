@@ -65,14 +65,10 @@ More than 15+ currencies supported and we continuesly add more currency time to 
 - **Website Settings:** Site information, social media links, timezone settings, email configuration, maintenance and more more settings can be managed easily.
 
 ## Upcoming Features
-- System: Internal fund transfer management (system user to another user).
 - System: Automatic profit calculation and adjustment with API base cronjob. 
-- System: Multi-Language supports including RTL version. 
 - System: Multiple theme option support incluing Dark Mode perference. 
-- Module: Internal KYC verification system.
 - Module: Mailchimp / Constant contact integration. 
 - Module: CMS feature for front-end management.
-- Addons: Stripe for credit / debit cards online payment gateway.
 - Addons: Coinbase, Blockchain, Coinpayments payment gateway gateway. 
 - Addons: Perfect Money, Skrill, Neteller payment gateway integration. 
 - Addons: Multi-Level referral system.
