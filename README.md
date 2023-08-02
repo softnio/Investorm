@@ -1,10 +1,10 @@
-# Investorm - HYIP Script
-### Advanced HYIP Investment Management Platform
+# Investorm - PHP/Laravel Script
+### Advanced Investment Management Platform
 
-**Investorm** is an ultimate solution to manage your **HYIP Investment Platform**. The platform has been built on Laravel v8. It has also used jQuery, Bootstrap v4 and the back-end UI of Dashlite.
+**Investorm** is an ultimate solution to manage your **Investment Platform**. The platform has been built on Laravel v8. It has also used jQuery, Bootstrap v4 and the back-end UI of Dashlite.
 
 ### Core Features:
-- Complete solution for a HYIP investment platform.
+- Complete solution for a investment platform.
 - Admin and user profile management with advanced control. 
 - Accounting system to maintain user account balance separately. 
 - Deposit, withdraw & investment feature for investors. 
