@@ -80,7 +80,7 @@ More than 15+ currencies supported and we continuesly add more currency time to 
 
 ## Demo Access
 
-**Live Demo Preview:** https://investorm.xyz
+**Live Demo Preview:** https://investorm.net/
 
 **Admin Access:** U /P: info@softnio.com / demo123#
 
